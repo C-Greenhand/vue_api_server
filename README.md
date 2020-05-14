@@ -2,7 +2,7 @@
 
 在 mysql 数据库中导入 db 目录下的 mydb.sql 文件
 步骤：
-在 mysql 中创建数据库 mydb (creat database mydb;)
+在 mysql 中创建数据库 mydb (create database mydb;)
 导入 mydb.sql:
 use mydb;
 source sql 文件的路径;
