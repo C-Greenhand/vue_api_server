@@ -7,8 +7,6 @@
 use mydb;
 source sql 文件的路径;
 
-http://127.0.0.1:8888/api/private/v1/
-
 - `config` 配置文件目录
   - `default.json` 默认配置文件（其中包含数据库配置，jwt 配置）
 - `dao` 数据访问层，存放对数据库的增删改查操作
